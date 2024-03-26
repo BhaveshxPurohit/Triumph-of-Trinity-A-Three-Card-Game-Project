@@ -1,1 +1,1 @@
-# Triumph-of-Trinity-A-Three-Card-Game-Project
+# IST 659 Final Project
